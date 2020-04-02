@@ -175,7 +175,6 @@
     "go to the discord server",
     "go to the wiki",
     "i hate you",
-    "that's gay",
     "you are my best friend!",
     "MWAHAHHA!",
     "BFFs",
