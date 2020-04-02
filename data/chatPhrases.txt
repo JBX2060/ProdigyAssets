@@ -183,5 +183,6 @@
     "he is my BFF",
     "you are my BFF",
     "they are my BFF",
-    "BFF = best friend forever"
+    "BFF = best friend forever",
+    "lol"
 ]
