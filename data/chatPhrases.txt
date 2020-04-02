@@ -174,5 +174,3 @@
     "go to the discord server",
     "go to the wiki"
 ]
-
-Prodigy.ChatManager.CHAT = [],
